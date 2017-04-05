@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="analog_button">Analog button scan</string>
+    <string name="app_name">Broadcast Style Demo</string>
+    <string name="continuous_light">Continuous Light</string>
+    <string name="cotinue_time">Continuous Time</string>
+    <string name="duration_time">Duration Time</string>
+    <string name="input_time">Please Input Time</string>
+    <string name="scan_barcode">Please Scan Barcode</string>
+    <string name="scan_continuous">Scan Continuous</string>
+    <string name="sound">Scan Sound</string>
+    <string name="vibrate">Scan Vibration</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

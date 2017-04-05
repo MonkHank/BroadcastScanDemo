@@ -1,0 +1,11 @@
+ 2017年1月19日14:26:35
+
+ failed: Your project path contains non-ASCII characters.
+ This will most likely cause the build to fail on Windows.
+ Please move your project to a different directory.
+ See http://b.android.com/95744 for details. This warning can be disabled by
+ adding the line 'android.overridePathCheck=true' to gradle.properties file in the project directory.
+上面问题的出现原因是由于导入的eclipse项目名字为中文才会出现的；
+
+2017年1月19日14:26:45
+Failed to find target with hash string 'android-19' in D:\\ASSDK

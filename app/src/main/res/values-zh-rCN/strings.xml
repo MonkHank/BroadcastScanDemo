@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">广播开发</string>
+    <string name="scan_barcode">请扫条码</string>
+    <string name="sound">扫描声音</string>
+    <string name="vibrate">扫描振动</string>
+    <string name="scan_continuous">循环扫描</string>
+    <string name="input_time">请输入时间</string>
+     <string name="cotinue_time">循环时间</string>
+     <string name="continuous_light">持续出光</string>
+     <string name="duration_time">持续时间</string>
+     <string name="analog_button">模拟按键扫描</string>
+    
+
+</resources>

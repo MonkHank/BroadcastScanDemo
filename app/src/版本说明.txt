@@ -1,0 +1,6 @@
+2017年1月19日16:30:10
+解决循环时间按钮NullPointerException问题；
+解决持续时间按钮NullPointerException问题；
+
+扫描工具中循环扫描开关打开后，此demo中循环扫描swich不会随着改变，是由此demo本身的sp来控制其显示开还
+是关；
